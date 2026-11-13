@@ -27,6 +27,15 @@
       },
       "versions": [
         {
+          "version": "1.9.0",
+          "buildVersion": "18",
+          "date": "2026-11-13T13:12:52+00:00",
+          "localizedDescription": "أول ظهور الشخصية من أول ذكر لاسمها، التعليقات تنحفظ مع التحميل، «قارئ 3» ثابت في الرواية كلها، وزر الرجوع يختفي بعد دقيقتين.",
+          "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v1.9.0-18/Jalees.ipa",
+          "size": 5371058,
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "1.8.2",
           "buildVersion": "17",
           "date": "2026-11-13T12:55:02+00:00",
@@ -54,11 +63,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "1.8.2",
-      "versionDate": "2026-11-13T12:55:02+00:00",
-      "versionDescription": "أسماء الشخصيات وإعدادات القارئ تتغيّر على طول، الأسماء تشتغل مع تباعد الحروف، ودليل السطر ثابت والنص يمشي تحته.",
-      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v1.8.2-17/Jalees.ipa",
-      "size": 5350671
+      "version": "1.9.0",
+      "versionDate": "2026-11-13T13:12:52+00:00",
+      "versionDescription": "أول ظهور الشخصية من أول ذكر لاسمها، التعليقات تنحفظ مع التحميل، «قارئ 3» ثابت في الرواية كلها، وزر الرجوع يختفي بعد دقيقتين.",
+      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v1.9.0-18/Jalees.ipa",
+      "size": 5371058
     }
   ],
   "news": []
