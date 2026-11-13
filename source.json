@@ -27,6 +27,15 @@
       },
       "versions": [
         {
+          "version": "1.8.1",
+          "buildVersion": "16",
+          "date": "2026-11-13T12:41:44+00:00",
+          "localizedDescription": "تعديل الرواية من صفحتها صار يطلع كامل بدل ما يعلق.",
+          "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v1.8.1-16/Jalees.ipa",
+          "size": 5349280,
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "1.8.0",
           "buildVersion": "15",
           "date": "2026-11-13T12:29:48+00:00",
@@ -36,11 +45,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "1.8.0",
-      "versionDate": "2026-11-13T12:29:48+00:00",
-      "versionDescription": "تبويب «التحديثات»، التبويبات بدون وميض، التقليب بين الفصول يوديك بدايتها، رجوع وتقدّم بعد القفزات، والتعليقات الأقدم تنضاف تحت.",
-      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v1.8.0-15/Jalees.ipa",
-      "size": 5348601
+      "version": "1.8.1",
+      "versionDate": "2026-11-13T12:41:44+00:00",
+      "versionDescription": "تعديل الرواية من صفحتها صار يطلع كامل بدل ما يعلق.",
+      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v1.8.1-16/Jalees.ipa",
+      "size": 5349280
     }
   ],
   "news": []
