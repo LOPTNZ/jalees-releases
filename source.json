@@ -27,6 +27,15 @@
       },
       "versions": [
         {
+          "version": "1.8.2",
+          "buildVersion": "17",
+          "date": "2026-11-13T12:55:02+00:00",
+          "localizedDescription": "أسماء الشخصيات وإعدادات القارئ تتغيّر على طول، الأسماء تشتغل مع تباعد الحروف، ودليل السطر ثابت والنص يمشي تحته.",
+          "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v1.8.2-17/Jalees.ipa",
+          "size": 5350671,
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "1.8.1",
           "buildVersion": "16",
           "date": "2026-11-13T12:41:44+00:00",
@@ -45,11 +54,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "1.8.1",
-      "versionDate": "2026-11-13T12:41:44+00:00",
-      "versionDescription": "تعديل الرواية من صفحتها صار يطلع كامل بدل ما يعلق.",
-      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v1.8.1-16/Jalees.ipa",
-      "size": 5349280
+      "version": "1.8.2",
+      "versionDate": "2026-11-13T12:55:02+00:00",
+      "versionDescription": "أسماء الشخصيات وإعدادات القارئ تتغيّر على طول، الأسماء تشتغل مع تباعد الحروف، ودليل السطر ثابت والنص يمشي تحته.",
+      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v1.8.2-17/Jalees.ipa",
+      "size": 5350671
     }
   ],
   "news": []
