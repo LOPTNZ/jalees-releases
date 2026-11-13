@@ -1,0 +1,47 @@
+{
+  "name": "جليس",
+  "identifier": "com.abdullah.wird.source",
+  "subtitle": "مكتبتك وقارئ الروايات",
+  "description": "تحديثات جليس.",
+  "iconURL": "https://raw.githubusercontent.com/LOPTNZ/jalees-releases/main/icon.png",
+  "tintColor": "#5cc2ae",
+  "apps": [
+    {
+      "name": "جليس",
+      "bundleIdentifier": "com.abdullah.wird.reader",
+      "developerName": "LOPTNZ",
+      "subtitle": "مكتبتك وقارئ الروايات",
+      "localizedDescription": "مكتبة كتبك، وقارئ روايات الويب وملفات EPUB، ودفتر لاقتباساتك وشخصياتك.",
+      "iconURL": "https://raw.githubusercontent.com/LOPTNZ/jalees-releases/main/icon.png",
+      "tintColor": "#5cc2ae",
+      "category": "reference",
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "لتصوير أغلفة الكتب، ومسح الباركود، وقراءة النص من الصفحات",
+          "NSPhotoLibraryUsageDescription": "لاختيار صور الأغلفة والشخصيات",
+          "NSPhotoLibraryAddUsageDescription": "لحفظ بطاقات الكتب والاقتباسات في صورك"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.8.0",
+          "buildVersion": "15",
+          "date": "2026-11-13T12:29:48+00:00",
+          "localizedDescription": "تبويب «التحديثات»، التبويبات بدون وميض، التقليب بين الفصول يوديك بدايتها، رجوع وتقدّم بعد القفزات، والتعليقات الأقدم تنضاف تحت.",
+          "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v1.8.0-15/Jalees.ipa",
+          "size": 5348601,
+          "minOSVersion": "16.1"
+        }
+      ],
+      "version": "1.8.0",
+      "versionDate": "2026-11-13T12:29:48+00:00",
+      "versionDescription": "تبويب «التحديثات»، التبويبات بدون وميض، التقليب بين الفصول يوديك بدايتها، رجوع وتقدّم بعد القفزات، والتعليقات الأقدم تنضاف تحت.",
+      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v1.8.0-15/Jalees.ipa",
+      "size": 5348601
+    }
+  ],
+  "news": []
+}
