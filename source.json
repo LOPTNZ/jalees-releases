@@ -27,6 +27,15 @@
       },
       "versions": [
         {
+          "version": "2.0.0",
+          "buildVersion": "19",
+          "date": "2026-11-14T00:17:33+00:00",
+          "localizedDescription": "جليس كله صار Swift: كل الشاشات أصلية، أخف وأسلس. بياناتك نفسها ما تتغير.",
+          "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v2.0.0-19/Jalees.ipa",
+          "size": 8271937,
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "1.9.0",
           "buildVersion": "18",
           "date": "2026-11-13T13:12:52+00:00",
@@ -63,11 +72,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "1.9.0",
-      "versionDate": "2026-11-13T13:12:52+00:00",
-      "versionDescription": "أول ظهور الشخصية من أول ذكر لاسمها، التعليقات تنحفظ مع التحميل، «قارئ 3» ثابت في الرواية كلها، وزر الرجوع يختفي بعد دقيقتين.",
-      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v1.9.0-18/Jalees.ipa",
-      "size": 5371058
+      "version": "2.0.0",
+      "versionDate": "2026-11-14T00:17:33+00:00",
+      "versionDescription": "جليس كله صار Swift: كل الشاشات أصلية، أخف وأسلس. بياناتك نفسها ما تتغير.",
+      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v2.0.0-19/Jalees.ipa",
+      "size": 8271937
     }
   ],
   "news": []
