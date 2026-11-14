@@ -27,6 +27,15 @@
       },
       "versions": [
         {
+          "version": "2.1.0",
+          "buildVersion": "20",
+          "date": "2026-11-14T16:20:39+00:00",
+          "localizedDescription": "جليس 2.1.0: كل اللي أجلناه (ما عدا الترجمة).\n- قراءة صوتية دقيقة بالعربي من Gemini بمفتاحك المجاني، ولما يخلص الحد يكمّل صوت الجوال بعد ما يشكّل Gemini النص.\n- واجهة إنجليزية كاملة من الإعدادات ← المظهر.\n- مواقع جديدة: فضاء الروايات، نادي الروايات، realmnovel، layl، wetriedtls، wtr-lab، وأي موقع ما يعرفه جليس يحاول يقرأه لحاله.\n- مستودع للمواقع، وفلاتر في التصفح، وNovelUpdates.\n- قوائم بإيموجي، وحالة «وقفت».\n- ثلاث تصاميم لقائمة القارئ.\n- خدمة على سيرفرك.\nJalees.ipa نظيفة، وJalees-Demo.ipa فيها كتب تجريبية.",
+          "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v2.1.0-20/Jalees.ipa",
+          "size": 9401165,
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "2.0.0",
           "buildVersion": "19",
           "date": "2026-11-14T00:17:33+00:00",
@@ -72,11 +81,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "2.0.0",
-      "versionDate": "2026-11-14T00:17:33+00:00",
-      "versionDescription": "جليس كله صار Swift: كل الشاشات أصلية، أخف وأسلس. بياناتك نفسها ما تتغير.",
-      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v2.0.0-19/Jalees.ipa",
-      "size": 8271937
+      "version": "2.1.0",
+      "versionDate": "2026-11-14T16:20:39+00:00",
+      "versionDescription": "جليس 2.1.0: كل اللي أجلناه (ما عدا الترجمة).\n- قراءة صوتية دقيقة بالعربي من Gemini بمفتاحك المجاني، ولما يخلص الحد يكمّل صوت الجوال بعد ما يشكّل Gemini النص.\n- واجهة إنجليزية كاملة من الإعدادات ← المظهر.\n- مواقع جديدة: فضاء الروايات، نادي الروايات، realmnovel، layl، wetriedtls، wtr-lab، وأي موقع ما يعرفه جليس يحاول يقرأه لحاله.\n- مستودع للمواقع، وفلاتر في التصفح، وNovelUpdates.\n- قوائم بإيموجي، وحالة «وقفت».\n- ثلاث تصاميم لقائمة القارئ.\n- خدمة على سيرفرك.\nJalees.ipa نظيفة، وJalees-Demo.ipa فيها كتب تجريبية.",
+      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v2.1.0-20/Jalees.ipa",
+      "size": 9401165
     }
   ],
   "news": []
