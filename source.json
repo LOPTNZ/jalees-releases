@@ -27,6 +27,15 @@
       },
       "versions": [
         {
+          "version": "2.1.2",
+          "buildVersion": "22",
+          "date": "2026-11-15T00:02:52+00:00",
+          "localizedDescription": "جليس 2.1.2:\n- فتح الكتب بحركة الغلاف زي النسخة الأولى، والتطبيق أخف بكثير.\n- تصحيحات من مراجعة كاملة للتطبيق.\n- يقدر يتصل بسيرفرك.",
+          "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v2.1.2-22/Jalees.ipa",
+          "size": 9459647,
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "2.1.1",
           "buildVersion": "21",
           "date": "2026-11-14T16:55:11+00:00",
@@ -90,11 +99,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "2.1.1",
-      "versionDate": "2026-11-14T16:55:11+00:00",
-      "versionDescription": "جليس 2.1.1: يقدر يكلّم سيرفرك (dell-server) على http داخل Tailscale. الإعدادات ← متقدمة ← سيرفرك: http://100.75.48.114:8790 والرمز.",
-      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v2.1.1-21/Jalees.ipa",
-      "size": 9401225
+      "version": "2.1.2",
+      "versionDate": "2026-11-15T00:02:52+00:00",
+      "versionDescription": "جليس 2.1.2:\n- فتح الكتب بحركة الغلاف زي النسخة الأولى، والتطبيق أخف بكثير.\n- تصحيحات من مراجعة كاملة للتطبيق.\n- يقدر يتصل بسيرفرك.",
+      "downloadURL": "https://github.com/LOPTNZ/jalees-releases/releases/download/v2.1.2-22/Jalees.ipa",
+      "size": 9459647
     }
   ],
   "news": []
